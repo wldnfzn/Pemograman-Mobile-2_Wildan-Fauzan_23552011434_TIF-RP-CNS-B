@@ -427,8 +427,7 @@ Project ini open source dan dapat digunakan untuk keperluan pendidikan dan devel
 ## 📞 Support
 
 Untuk pertanyaan atau bug report:
-- Email: support@laporpak.com
-- GitHub Issues: <repository-url>/issues
+- Email: qildanfauzan266@gmail.coom
 
 ---
 
